@@ -1,0 +1,22 @@
+{
+  "name": "lab3udeaf",
+  "version": "1.0.0",
+  "description": "calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fenix530/lab3UdeaF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenix530/lab3UdeaF/issues"
+  },
+  "homepage": "https://github.com/fenix530/lab3UdeaF#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
